@@ -1,1 +1,1 @@
-# ki-isel-web-sitesi
+# kişisel-web-sitesi
